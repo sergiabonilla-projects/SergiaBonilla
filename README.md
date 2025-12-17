@@ -163,7 +163,7 @@ Visualizaciones interactivas:
 ### 📬 ¡Conectemos!
 
 [![Email](https://img.shields.io/badge/📧_Email-sergiabonilla12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergiabonilla12@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-TU--USUARIO-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/TU-USUARIO](https://github.com/sergiabonilla-projects))
+[![GitHub](https://img.shields.io/badge/GitHub-SergiaBonilla-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/TU-USUARIO](https://github.com/sergiabonilla-projects))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sergia-b-088b35125)
 
 </div>
