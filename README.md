@@ -160,21 +160,11 @@ Visualizaciones interactivas:
 
 ---
 
-## 🌐 Portafolio & Contacto
-
-<div align="center">
-
-### 🌟 Visita Mi Portafolio
-
-<a href="https://TU-USUARIO.github.io/portfolio-site">
-<img src="https://img.shields.io/badge/🌐_Portfolio_Website-Explorar_Proyectos-4285F4?style=for-the-badge" alt="Portfolio"/>
-</a>
-
 ### 📬 ¡Conectemos!
 
 [![Email](https://img.shields.io/badge/📧_Email-sergiabonilla12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergiabonilla12@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-TU--USUARIO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU-USUARIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-TU--USUARIO-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/TU-USUARIO](https://github.com/sergiabonilla-projects))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sergia-b-088b35125)
 
 </div>
 
