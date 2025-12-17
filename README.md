@@ -141,34 +141,22 @@ Visualizaciones interactivas:
 | 📊 **Excel** | ✅ Completado | Power Query, Tablas Dinámicas, Gráficos Avanzados |
 | 🗃️ **SQL** | ✅ Completado | SELECT, JOIN, GROUP BY, Subqueries |
 | 🐍 **Python** | ✅ Completado | pandas, matplotlib, Jupyter, Data Analysis |
-| 📊 **JavaScript** | 🔄 En Progreso | Visualizaciones, DOM, D3.js |
-| 🚀 **Proyectos Finales** | ⏳ Próximamente | Portfolio Completo, Capstone Project |
+| 📊 **Power BI** | 🔄 En Progreso | Gráficos y dashboards |
 
 </div>
 
 ---
 
-## 💡 Lo que Busco
+## 🎯 Mis Objetivos
 
-```javascript
-const myGoals = {
-    shortTerm: [
-        "Dominar visualizaciones con JavaScript",
-        "Construir un portafolio profesional",
-        "Completar el bootcamp con excelencia"
-    ],
-    longTerm: [
-        "Trabajar como Data Analyst",
-        "Contribuir a proyectos open source",
-        "Seguir aprendiendo nuevas tecnologías"
-    ],
-    interests: [
-        "Data Science",
-        "Business Intelligence",
-        "Machine Learning"
-    ]
-};
-```
+| Categoría | Metas Específicas |
+|-----------|-------------------|
+| 🚀 **Carrera** | Trabajar como Data Analyst |
+| 📚 **Educación** | Completar bootcamp de Data Analytics |
+| 💼 **Portafolio** | Construir proyectos profesionales |
+| 🌱 **Desarrollo** | Seguir aprendiendo nuevas tecnologías |
+| 🤝 **Comunidad** | Contribuir a proyectos open source |
+| 📈 **Especialización** | Profundizar en Business Intelligence |
 
 ---
 
