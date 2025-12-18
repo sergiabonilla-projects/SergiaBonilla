@@ -5,7 +5,7 @@
 ### 📊 Data Enthusiast | 💻 Coding Bootcamp Student | 🚀 Future Data Analyst
 
 [![Email](https://img.shields.io/badge/Email-sergiabonilla12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergiabonilla12@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU-USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/TU-USUARIO](https://github.com/sergiabonilla-projects))
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Transformando+datos+en+insights;Excel+%7C+SQL+%7C+Python;Bootcamp+ESPOL+-+MINTEL" alt="Typing SVG" />
 
