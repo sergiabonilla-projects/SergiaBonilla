@@ -186,6 +186,6 @@ Visualizaciones interactivas:
 
 **⭐ Si mis proyectos te parecen interesantes, considera darles una estrella!**
 
-*Última actualización: Noviembre 2025* 🚀
+*Última actualización: Diciembre 2025* 🚀
 
 </div>
